@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CURP</string>
+    <string name="textview_titulo"> Conoce tu CURP </string>
+    <string name="textview_nombre"> Nombres:  </string>
+    <string name="textview_apellidomaterno">Apellido Materno: </string>
+    <string name="textview_apellidopaterno">Apellido Paterno: </string>
+    <string name="textview_genero">Género: </string>
+    <string name="textview_masculino">Masculino </string>
+    <string name="textview_femenino">Femenino </string>
+    <string name="textview_fechanacimiento">Fecha de nacimiento: </string>
+    <string name="textview_entidadfederativa">Entidad Federativa: </string>
+    <string name="button_calcular">Calcular</string>
+</resources>
